@@ -1,0 +1,6 @@
+
+
+scipy==1.7.3
+customtkinter==0.3.2
+pillow==8.4.0
+pyglet==1.5.21
